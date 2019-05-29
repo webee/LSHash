@@ -7,6 +7,6 @@
 __title__ = 'lshash'
 __author__ = 'Kay Zhu (me@kayzhu.com)'
 __license__ = 'MIT'
-__version__ = '0.0.4dev'
+__version__ = '0.1.0dev'
 
 from .lshash import LSHash
